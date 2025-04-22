@@ -1,4 +1,4 @@
-menu_title='PK大賽';
+menu_title='個人賽測試';
 menu_items = new Array(
   "九九乘法,data/9x9.js"
   
